@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br/>
+There is no GitHub page preview, since project uses ISS position API, which is served via http. Since GitHub page is https, request cannot be made an part of website gets broken.
 
 ## Available Scripts
 
