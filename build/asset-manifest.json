@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-cool-website/static/css/main.30a878ed.css",
+    "main.js": "/my-cool-website/static/js/main.a4e186fa.js",
+    "static/js/453.ac3c4a1b.chunk.js": "/my-cool-website/static/js/453.ac3c4a1b.chunk.js",
+    "index.html": "/my-cool-website/index.html",
+    "main.30a878ed.css.map": "/my-cool-website/static/css/main.30a878ed.css.map",
+    "main.a4e186fa.js.map": "/my-cool-website/static/js/main.a4e186fa.js.map",
+    "453.ac3c4a1b.chunk.js.map": "/my-cool-website/static/js/453.ac3c4a1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30a878ed.css",
+    "static/js/main.a4e186fa.js"
+  ]
+}
